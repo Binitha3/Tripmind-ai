@@ -1,6 +1,6 @@
 # TripMind AI — Intelligent Group Travel Planner
 NOTE: Vibecoded, made for a hackathon dated on 25-04-2026
-
+Live on https://tripmind-ai-cxgb.onrender.com/
 > \*Every traveler. One perfect trip.\*
 
 TripMind AI is an agentic travel planning assistant that takes in your group's details — ages, budget, destination, and travel dates — and instantly generates a fully personalized, day-by-day trip plan for every kind of traveler in the group.
