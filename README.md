@@ -1,4 +1,4 @@
-# ✦ TripMind AI — Intelligent Group Travel Planner
+# TripMind AI — Intelligent Group Travel Planner
 
 > \*Every traveler. One perfect trip.\*
 
@@ -6,28 +6,28 @@ TripMind AI is an agentic travel planning assistant that takes in your group's d
 
 \---
 
-## 🧠 The Problem
+##  The Problem
 
 Travel planning tools today are generic and one-size-fits-all. They don't account for group composition, age-specific needs, or budget constraints all at once — leaving travelers overwhelmed, underprepared, and often disappointed.
 
 \---
 
-## 💡 Our Solution
+##  Our Solution
 
 TripMind AI collects group details and uses **Gemini AI** to generate:
 
-* 📅 Full day-by-day itinerary (morning, afternoon, evening)
-* 🎯 Age-appropriate activities for every member
-* 💰 Smart budget breakdown across accommodation, food, transport \& activities
-* 🏨 Hotel/stay recommendations suited to the group
-* 🍽️ Local food \& restaurant suggestions
-* 🌤️ Weather-aware packing list
-* 🚗 Transport recommendations per day
-* 💡 Pro tips from AI
+*  Full day-by-day itinerary (morning, afternoon, evening)
+*  Age-appropriate activities for every member
+*  Smart budget breakdown across accommodation, food, transport \& activities
+*  Hotel/stay recommendations suited to the group
+*  Local food \& restaurant suggestions
+*  Weather-aware packing list
+*  Transport recommendations per day
+*  Pro tips from AI
 
 \---
 
-## 🔄 How It Works
+##  How It Works
 
 ```
 User fills form (destination, group ages, budget, dates)
@@ -43,7 +43,7 @@ Frontend renders beautiful day-by-day trip plan
 
 \---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 |Layer|Technology|
 |-|-|
@@ -56,7 +56,7 @@ Frontend renders beautiful day-by-day trip plan
 
 \---
 
-## 🚀 Running Locally
+##  Running Locally
 
 ```bash
 # 1. Install dependencies
@@ -74,9 +74,9 @@ http://localhost:5000
 
 \---
 
-## 👥 Team
+##  Team
 
-\## 👥 Team Details
+\##  Team Details
 
 
 
