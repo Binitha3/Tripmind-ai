@@ -1,4 +1,5 @@
 # TripMind AI — Intelligent Group Travel Planner
+NOTE: Vibecoded, made for a hackathon dated on 25-04-2026
 
 > \*Every traveler. One perfect trip.\*
 
